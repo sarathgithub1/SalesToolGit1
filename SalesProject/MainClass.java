@@ -17,6 +17,7 @@ public class MainClass {
 		System.out.println("Sales App");
 		
 		System.out.println("First change");
+		System.out.println("First change");
 	}
 
 }
